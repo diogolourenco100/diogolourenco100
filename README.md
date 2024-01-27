@@ -1,6 +1,6 @@
 ## Diogo S. Lourenço
 ### Hello, Devs!!
-#### Meu nome Diogo, tenho 17 anos, estudante do ensino médio, aprendendo sobre o desenvolvimento web.
+#### Meu nome Diogo, tenho 18 anos, estudante do ensino médio, aprendendo sobre o desenvolvimento/cibersegurança.
 #### Aqui está <a href="https://diogodev.netlify.app/" target="_blank" rel="noopener noreferrer">meu primeiro site.</a>
 
 
