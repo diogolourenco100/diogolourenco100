@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/diogo-lourenço-51724b249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### Estatísticas(perfil criado recentemente):
+### Estatísticas:
 <div>
 <a href="https://github.com/diogolourenco100">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogolourenco100&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
