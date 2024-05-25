@@ -1,6 +1,6 @@
 ## Diogo S. Lourenço
 ### Hello, Devs!!
-#### Meu nome Diogo, tenho 18 anos, estudante do ensino médio, aprendendo sobre o desenvolvimento web/cibersegurança.
+#### I'm Diogo, I'm 18 years old, and I'm studying web development and cybersecurity.
 
 ### Contatos:
 
