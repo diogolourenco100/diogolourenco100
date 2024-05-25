@@ -11,10 +11,21 @@
 <a href = "mailto:lourenco.diogo100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-### Estatísticas:
-<div>
-<a href="https://github.com/diogolourenco100">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogolourenco100&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogolourenco100&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+### Github Stats ⚡
+
+[![Diogo S. Lourenços's github stats](https://bad-apple-github-readme.vercel.app/api?username=diogolourenco100&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=radical&title_color=00b3ff)](#)
+ 
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=diogolourenco100&layout=compact&count_private=true&theme=radical&title_color=00b3ff)](#)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  </a>
+</p>
+
+### You are visitor: 
+![Visitor Count](https://profile-counter.glitch.me/{diogolourenco100}/count.svg)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
