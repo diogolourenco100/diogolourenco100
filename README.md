@@ -26,6 +26,6 @@
 ### You are visitor: 
 ![Visitor Count](https://profile-counter.glitch.me/{diogolourenco100}/count.svg)
 
-<p align="left">
+<p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
