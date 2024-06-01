@@ -13,11 +13,16 @@
 
 ### Github Stats ⚡
 
+<div align='center'>
+
 [![Diogo S. Lourenços's github stats](https://bad-apple-github-readme.vercel.app/api?username=diogolourenco100&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=radical&title_color=00b3ff)](#)
- 
+
+
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=diogolourenco100&layout=compact&count_private=true&theme=radical&title_color=00b3ff)](#)
 
-<p align="left">
+</div>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python" />
   </a>
