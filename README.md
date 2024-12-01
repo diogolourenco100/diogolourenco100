@@ -1,6 +1,6 @@
 ## Diogo S. Lourenço
 ### Hello, Devs!!
-#### I'm Diogo, I'm 18 years old, and I'm studying web development and cybersecurity.
+#### I'm Diogo, I'm 19 years old, and I'm studying web development and cybersecurity.
 
 ### Contatos:
 
